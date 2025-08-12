@@ -2,8 +2,7 @@
 
 EduMate is an AI-powered personalized education platform built to revolutionize the way students study. It combines intelligent study planning, smart content curation, document analysis, and productivity tools to help learners achieve their academic goals efficiently.
 
-<img src="https://github.com/user-attachments/assets/4c7f61ec-cd79-4cd4-b84a-14353e02193b" width="500" />
-
+<img width="500" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/72e9ecc5-5954-479c-a912-8b3ab377f6d9" />
 
 ---
 
@@ -13,26 +12,22 @@ EduMate is an AI-powered personalized education platform built to revolutionize 
 ### 🔍 AI-Powered Study Planner
 - Personalized schedules based on subjects, exam dates, and user preferences.
 - Weekly milestones and daily task breakdowns.
-- Dynamic updates to accommodate changing timelines.
 
-<img src="https://github.com/user-attachments/assets/8a2065de-f05e-4366-8ecc-19d4f35dd701" width="500" />
-
+<img width="500" alt="planner" src="https://github.com/user-attachments/assets/5ea21553-a964-4ae6-bde1-0aa7f5b7091c" />
 
 ### 📚 Smart Resource Curation
 - Integrated with **Tavily API** for high-quality content discovery.
 - Ranks content using a quality scoring algorithm.
 - Supports video tutorials, articles, documentation, and more.
 
-  <img src="https://github.com/user-attachments/assets/69134147-1c52-4508-82f7-9b8c4b6826d9" width="500" />
-
+<img width="500" height="1080" alt="resource_cur (2)" src="https://github.com/user-attachments/assets/fc71a0dc-efdf-4078-8add-85c67bf8800b" />
 
 ### 📄 Interactive PDF Chat Assistant
 - Upload PDFs and ask context-aware questions.
 - Receive intelligent responses with source references.
 - Navigate and query documents with an AI-integrated chat interface.
 
-  <img src="https://github.com/user-attachments/assets/a7640ca7-757c-47fd-b873-4a4174fbbe46" width="500" />
-
+<img width="500" alt="pdf (2)" src="https://github.com/user-attachments/assets/64118038-a2a6-4e82-830a-151e59a05312" />
 
 ### ⏱️ Productivity Tools
 - Pomodoro timer with adjustable intervals.
